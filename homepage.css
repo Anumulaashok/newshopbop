@@ -8,42 +8,34 @@
     height: 50px;
     width: 100%;;
     } */
-    
-    .container99{
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
-    margin: auto;
-    position: fixed;
-    margin-top: -10px;
-    color: grey;
-    margin-left: 100px;
-    background-color: white;
-    opacity: .9;
-    }
-    
-    .container99>div{
-    display: flex;
-    
-    gap: 2px;
-    }
-    
-    .ssense{
-    /* margin-top: 20px; */
-    font-size: 12px;
-    font-family: sans-serif;
-    color: black;
-    
-    
-    } 
-    p{
-    margin-right: 50px;
-    }
-    
-    a:hover{
-    text-decoration:underline;
-    }
-
+    .class1{
+        display: flex;
+       
+          margin-top: 30px;
+          font-size: 19px;
+          background-color:#f8f7f7;
+          padding: 20px 200px;
+          
+          
+      }
+      .class1 p{
+        padding-right: 10px;
+        
+      }
+      .class2{
+        display: flex;
+        margin-top: -40px;
+        margin-left:600px ;
+        justify-content: space-between;
+        margin-bottom: 30px;
+        margin-right: 200px;
+        font-size: 19px;
+        background-color:#f8f7f7;
+      }
+      
+      a:hover{
+      text-decoration:underline;
+      }
 /* top navbar ended */
 #reducethesize{
     height: 6500px;
